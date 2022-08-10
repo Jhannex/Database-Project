@@ -1,0 +1,12 @@
+Good day! You may use this guide if needed.
+
+- To launch the system, simply double click the file
+- To open the developer version, hold the 'shift' button on your keyboard while opening the file
+- To view the VBA program codes (for UI design and added functionality), click any module on the "Module" section found at the bottom of the navigation panel
+- Several SQL functions are encrypted in the forms as VBA codes.
+- Username & Password = admin
+
+NOTE: some revisions in the System UI cannot be viewed in the .accdb file, but can instead be found on the documentation paper
+
+
+Thank you so much, Stay safe!
